@@ -1120,20 +1120,13 @@ Creative Commons may be contacted at creativecommons.org.
 
 Public-domain
 
-Public domain software is software that is not copyrighted. If the source code is in the public domain, that is a special case of noncopylefted free software, which means that some copies or modified versions may not be free at all.
-
-In some cases, an executable program can be in the public domain but the source code is not available. This is not free software, because free software requires accessibility of source code. Meanwhile, most free software is not in the public domain; it is copyrighted, and the copyright holders have legally given permission for everyone to use it in freedom, using a free software license.
-
-Sometimes people use the term "public domain" in a loose fashion to mean "free" or "available gratis." However, "public domain" is a legal term and means, precisely, "not copyrighted". For clarity, we recommend using "public domain" for that meaning only, and using other terms to convey the other meanings.
-
-Under the Berne Convention, which most countries have signed, anything written down is automatically copyrighted. This includes programs. Therefore, if you want a program you have written to be in the public domain, you must take some legal steps to disclaim the copyright on it; otherwise, the program is copyrighted.
+Public domain
 
 ------------------------------------------------------------------------------------------------------------------------
 
 Dual-license
 
-Multi-licensing is the practice of distributing software under two or more different sets of terms and conditions. This may mean multiple different software licenses or sets of licenses. Prefixes may be used to indicate the number of licenses used, e.g. dual-licensed for software licensed under two different licenses.
-When software is multi-licensed, recipients can choose which terms under which they want to use or distribute the software. The distributor may or may not apply a fee to either option. The two usual motivations for multi-licensing are license compatibility and market segregation based business models.
+License: GPL-2.0-or-later OR LGPL-3.0-or-later
 
 ------------------------------------------------------------------------------------------------------------------------
 
@@ -1772,20 +1765,75 @@ To the extent possible, in no event will the Licensor be liable to You on any le
 
 ------------------------------------------------------------------------------------------------------------------------
 
-GPL-1.0-or-later
-
-The information in the file is:
-This code is GPL.
-Since no version number of GPL is given we concluded GPL-1.0-or-later as license of this file.
-
-------------------------------------------------------------------------------------------------------------------------
-
 GPL-2.0-or-later
 
 To the extend files may be licensed under GPL-2.0-or-later or LGPL-3.0-or-later, in this context GPL-2.0-or-later has bee chosen. This shall not restrict the freedom of other users to choose either GPL-2.0-or-later or LGPL-3.0-or-later. For convenience all license texts are provided.
 
 ------------------------------------------------------------------------------------------------------------------------
 
-<Copyright notices>
+Copyright notices
 
-<notices>
+Copyright(C) 2018 Phil Sutter <phil@nwl.cc>
+Copyright © 2012-2015 Dan Nicholson <dbn.lists@gmail.com>
+Copyright © 2008-2014 Patrick McHardy <kaber@trash.net> Copyright © 2013-2018 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright © 2004 Scott James Remnant <scott@netsplit.com>.
+Copyright Red Hat
+Copyright 2011-2015, 2017 Free Software Foundation, Inc.
+Copyright 1992-2018 Free Software Foundation, Inc.
+Copyright 1991-1997, 1999-2016 Free Software Foundation, Inc.
+Copyright (c) Red Hat GmbH.	Author: Florian Westphal <fw@strlen.de>
+Copyright (c) 2021 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2019 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2018 Máté Eckl <ecklm94@gmail.com>
+Copyright (c) 2017 Phil Sutter <phil@nwl.cc>
+Copyright (c) 2017 Eric Leblond <eric@regit.org>
+Copyright (c) 2017 Elise Lennion <elise.lennion@gmail.com>
+Copyright (c) 2016 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2016 Anders K. Pedersen <akp@cohaesio.com>
+Copyright (c) 2015 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2015 Arturo Borrero Gonzalez <arturo@netfilter.org>
+Copyright (c) 2015 Arturo Borrero Gonzalez <arturo@debian.org>
+Copyright (c) 2014 Patrick McHardy <kaber@trash.net>
+Copyright (c) 2013-2017 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2013-2015 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2013 Pablo Neira Ayuso <pablo@netfilter.org>
+Copyright (c) 2008-2012 Patrick McHardy <kaber@trash.net>
+Copyright (c) 2008 Patrick McHardy <kaber@trash.net>
+Copyright (c) 2007-2012 Patrick McHardy <kaber@trash.net>
+Copyright (c) 2007-2008 Patrick McHardy <kaber@trash.net>
+Copyright (c) 2005 Evgeniy Polyakov <johnpol@2ka.mxt.ru>
+Copyright (C) 2014 Free Software Foundation, Inc.
+Copyright (C) 2012 Free Software Foundation, Inc.
+Copyright (C) 2011-2020 Free Software Foundation, Inc.
+Copyright (C) 2011 Free Software Foundation, Inc.
+Copyright (C) 2010-2020 Free Software Foundation, Inc.
+Copyright (C) 2010-2015 Free Software Foundation, Inc.
+Copyright (C) 2009-2020 Free Software Foundation, Inc.
+Copyright (C) 2006-2020 Free Software Foundation, Inc.
+Copyright (C) 2004-2020 Free Software Foundation, Inc.
+Copyright (C) 2004-2015 Free Software Foundation, Inc.
+Copyright (C) 2004-2005, 2007-2009, 2011-2015 Free Software Foundation, Inc.
+Copyright (C) 2004-2005, 2007-2008, 2011-2015 Free Software Foundation, Inc.
+Copyright (C) 2004-2005, 2007, 2009, 2011-2015 Free Software Foundation, Inc.
+Copyright (C) 2004, 2011-2015 Free Software Foundation, Inc.
+Copyright (C) 2003-2020 Free Software Foundation, Inc.
+Copyright (C) 2002-2020 Free Software Foundation, Inc.
+Copyright (C) 2001-2020 Free Software Foundation, Inc.
+Copyright (C) 1999-2020 Free Software Foundation, Inc.
+Copyright (C) 1999 Paul `Rusty' Russell & Michael J. Neuling
+Copyright (C) 1997-2020 Free Software Foundation, Inc.
+Copyright (C) 1996-2020 Free Software Foundation, Inc.
+Copyright (C) 1996-2015 Free Software Foundation, Inc.
+Copyright (C) 1996-2001, 2003-2015 Free Software Foundation, Inc.
+Copyright (C) 1994-2020 Free Software Foundation, Inc.
+Copyright (C) 1994 X Consortium
+Copyright (C) 1992-1996, 1998-2012 Free Software Foundation, Inc.
+Copyright (C) 1989, 1991 Free Software Foundation, Inc.
+Copyright (C) 1984, 1989-1990, 2000-2015, 2018-2021 Free Software Foundation, Inc.
+(C) Steve Whitehouse 1999
+(C) Copyright 2003 by Mike Frantzen <frantzen@w4g.org>
+(C) Copyright 2000-2003 by Michal Zalewski <lcamtuf@coredump.cx>
+(C) 2014 by Ana Rey Botello <anarey@gmail.com>
+(C) 2012 by Pablo Neira Ayuso <pablo@netfilter.org>
+(C) 2002 David Woodhouse <dwmw2@infradead.org>
+(C) 1999 Andrea Arcangeli <andrea@suse.de>
