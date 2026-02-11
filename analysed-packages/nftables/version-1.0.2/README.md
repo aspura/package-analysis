@@ -14,6 +14,6 @@ Pascal Minder (p.minder@evtec.ch)
 
 The information was reviewed by:
 
-* Add reviewer here
+* Oliver Fendt
 
 ## Comment
